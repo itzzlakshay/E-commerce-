@@ -3,8 +3,11 @@ This project explores and analyzes an e-commerce dataset using Python and SQL to
 
 🔍 Key Objectives Solved
 List all unique cities where customers are located.
+
 Count the number of orders placed in 2017.
+
 Calculate total sales per product category.
+
 Determine the percentage of orders paid in installments.
 Count customers from each state.
 Analyze monthly order trends in 2018.
