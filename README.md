@@ -9,16 +9,27 @@ Count the number of orders placed in 2017.
 Calculate total sales per product category.
 
 Determine the percentage of orders paid in installments.
+
 Count customers from each state.
+
 Analyze monthly order trends in 2018.
+
 Compute average number of products per order by customer city.
+
 Identify revenue contribution by each product category.
+
 Correlate product price with purchase frequency.
+
 Rank sellers by total revenue generated.
+
 Calculate customer-level moving averages of order values.
+
 Analyze cumulative monthly sales trends.
+
 Calculate year-over-year growth in sales.
+
 Determine customer retention rates (based on repeat purchases within 6 months).
+
 Identify top 3 spenders per year.
 
 🛠️ Tech Stack
